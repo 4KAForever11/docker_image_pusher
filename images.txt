@@ -4,3 +4,4 @@ python:alpine3.20
 jeessy/ddns-go:latest
 lihaixin/webssh:latest
 newargus/rainloop-webmail:latest
+chishin/nginx-proxy-manager-zh:release
