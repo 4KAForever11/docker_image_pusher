@@ -12,3 +12,4 @@ dpage/pgadmin4:latest
 halohub/halo-pro:2.16.3
 php:latest
 halohub/halo:2.16.2
+xianwei2022/stars.client:latest
