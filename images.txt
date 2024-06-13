@@ -4,6 +4,6 @@ python:alpine3.20
 jeessy/ddns-go:latest
 lihaixin/webssh:latest
 newargus/rainloop-webmail:latest
-chishin/nginx-proxy-manager-zh:release
 jc21/nginx-proxy-manager:latest
 rustdesk/rustdesk-server-s6:latest
+mysql:8.4.0
